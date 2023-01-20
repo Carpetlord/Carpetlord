@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radoslaw</h1>
 <h3 align="center">I'm self learning web 3 developer, trying to improve everyday.</h3>
-<img align="right" alt="Blockchain" width="400" src="https://thumbs.gfycat.com/AjarJaggedClumber-max-1mb.gif">
+<img align="center" alt="Blockchain" width="400" src="https://thumbs.gfycat.com/AjarJaggedClumber-max-1mb.gif">
                                                                                                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carpetlord&label=Profile%20views&color=0e75b6&style=flat" alt="carpetlord" /> <a href="https://github.com/Carpetlord?tab=followers"> </p>
 
