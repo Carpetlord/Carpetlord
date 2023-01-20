@@ -2,7 +2,10 @@
 <h3 align="center">I'm self learning web 3 developer, trying to improve everyday.</h3>
 <img align="right" alt="Blockchain" width="400" src="https://thumbs.gfycat.com/AjarJaggedClumber-max-1mb.gif">
                                                                                                              
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carpetlord&label=Profile%20views&color=0e75b6&style=flat" alt="carpetlord" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carpetlord&label=Profile%20views&color=0e75b6&style=flat" alt="carpetlord" /> <a href="https://github.com/Carpetlord?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Carpetlord?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> </p>
 
 - I’m currently learning **Solidity, JS, Hardhat, React**
 
