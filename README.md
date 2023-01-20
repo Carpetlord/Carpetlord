@@ -21,7 +21,10 @@
 ---
 
 <h3 align="left">📊Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carpetlord&" alt="carpetlord" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carpetlord&&theme=dark&background=000000"](https://git.io/streak-stats) alt="carpetlord" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpetlord&layout=compact&theme=vision-friendly-dark"](https://github.com/anuraghazra/github-readme-stats) alt="carpetlord" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carpetlord&label=Profile%20views&color=0e75b6&style=flat" alt="carpetlord" /> <a href="https://github.com/Carpetlord?tab=followers"> </p>
