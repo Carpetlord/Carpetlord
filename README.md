@@ -6,7 +6,7 @@
 
 <h3 align="left">🐱‍💻 About me:</h3>
 
-- I’m currently learning **Solidity, JS, Hardhat, React
+- I’m currently learning Solidity, JS, Hardhat, React
 
 - Trying to become competent while working on others repositories and my own project
 - My goal it to be full time developer
