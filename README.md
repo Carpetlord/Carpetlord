@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radoslaw</h1>
 <h3 align="center">I'm self learning web 3 developer, trying to improve everyday.</h3>
-<img align="center" alt="Blockchain" width="500" src="https://thumbs.gfycat.com/AjarJaggedClumber-max-1mb.gif">
+<div align="center"><img src="https://thumbs.gfycat.com/AjarJaggedClumber-max-1mb.gif" width="500"></div>
                                                                                                              
 ---
 
